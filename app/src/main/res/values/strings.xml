@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SimpleMacros</string>
+    <string name="calories_label">Calories: </string>
+    <string name="protein_label">Protein: </string>
+    <string name="add_meal">Add meal</string>
+    <string name="history">History</string>
+    <string name="reset">Reset</string>
+    <string name="today">Today</string>
+</resources>
